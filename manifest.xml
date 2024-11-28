@@ -32,6 +32,7 @@
   </Resources>
 
   <DefaultSettings>
-    <SourceLocation DefaultValue="https://your-hosting-url.com/index.html"/>
+    <SourceLocation DefaultValue="https://SholomN.github.io/chords-addin/index.html
+"/>
   </DefaultSettings>
 </OfficeApp>
