@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+#chord-selection {
+    margin: 10px 0;
+}
+
+label {
+    display: inline-block;
+    width: 60px;
+}
+
+select, button {
+    margin: 5px;
+}
